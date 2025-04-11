@@ -1,6 +1,6 @@
 # 💸 Personal Finance Tracker (C Program)
 
-A simple **command-line application** built in C to help users track their personal finances. The app supports registration, login, adding income/expenses, setting a budget, and viewing transaction history — all with colorful CLI outputs!
+A  **command-line application** built in C to help users track their personal finances. The app supports registration, login, adding income/expenses, setting a budget, and viewing transaction history — all with colorful CLI outputs!
 
 ---
 
