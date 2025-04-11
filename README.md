@@ -1,2 +1,19 @@
-# Personal-Finance-Tracker
-Console-based personal finance tracker in C: 👤 Register/Login, ➕ Add income/expense with category and amount, 📜 View transactions, 🎯 Set monthly budget, 🚨 Track budget usage with a visual bar and alerts if exceeded. Simple file-based storage with colored CLI interface.
+# 💸 Personal Finance Tracker (C Program)
+
+A simple **command-line application** built in C to help users track their personal finances. The app supports registration, login, adding income/expenses, setting a budget, and viewing transaction history — all with colorful CLI outputs!
+
+---
+
+## 🚀 Features
+
+- 👤 **User Registration & Login**
+- 💵 **Add Transactions** (Income / Expense)
+- 📜 **View Transaction History**
+- 🎯 **Set and Monitor Monthly Budget**
+- 📊 **Visual Budget Usage Bar**
+- 💾 **Data Persistence** using File Handling
+- 🌈 **Colorful Interface** using ANSI escape codes
+
+---
+
+
